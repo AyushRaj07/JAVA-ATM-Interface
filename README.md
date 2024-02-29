@@ -30,8 +30,13 @@ This Java program simulates a simple ATM (Automated Teller Machine) with basic f
 # ATM Functionalities
 The program includes the following ATM functionalities:
 
-Check Balance
-Withdraw Money
-Deposit Money
-Exit
+1. Check Balance
+2. Withdraw Money
+3. Deposit Money
+4. Exit
 
+# Instructions
+
+Enter your User ID and PIN to authenticate.
+Choose from the menu options to perform different operations.
+Follow on-screen instructions for each operation.
