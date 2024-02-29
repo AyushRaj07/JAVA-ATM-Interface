@@ -14,3 +14,24 @@ This Java program simulates a simple ATM (Automated Teller Machine) with basic f
 
    ```bash
    git clone https://github.com/AyushRaj07/JAVA-ATM-Interface.git
+
+2. Navigate to the project directory:
+
+   cd JAVA-ATM-Interface
+
+3. Compile the Java files:
+
+   javac Main.java
+
+4. Run the program:
+
+   java Main
+
+# ATM Functionalities
+The program includes the following ATM functionalities:
+
+Check Balance
+Withdraw Money
+Deposit Money
+Exit
+
