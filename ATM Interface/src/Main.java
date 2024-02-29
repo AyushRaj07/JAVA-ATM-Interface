@@ -43,8 +43,8 @@ class ATM {
     // Constructor initializes the user database with sample users.
     public ATM() {
         userDatabase = new HashMap<>();
-        userDatabase.put("1234", new User("1234", "5678", 1000.0));
-        userDatabase.put("5678", new User("5678", "1234", 500.0));
+        userDatabase.put("Ayush123", new User("Ayush123", "5678", 1000.0));
+        userDatabase.put("AK007", new User("AK007", "1234", 500.0));
     }
 
     // Method to start the ATM, handling user authentication and interaction.
