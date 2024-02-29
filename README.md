@@ -13,4 +13,4 @@ This Java program simulates a simple ATM (Automated Teller Machine) with basic f
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/JAVA-ATM-Interface.git
+   git clone https://github.com/AyushRaj07/JAVA-ATM-Interface.git
