@@ -37,6 +37,6 @@ The program includes the following ATM functionalities:
 
 # Instructions
 
-Enter your User ID and PIN to authenticate.
-Choose from the menu options to perform different operations.
-Follow on-screen instructions for each operation.
+1. Enter your User ID and PIN to authenticate.
+2. Choose from the menu options to perform different operations.
+3. Follow on-screen instructions for each operation.
